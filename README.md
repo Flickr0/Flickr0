@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 BIS student at Al-Azhar University<br>💻 Freelance developer<br><br>🔭 I’ve built :<br>Desktop apps using Python & Tkinter<br>Mobile apps using Flutter<br><br>🛠 Skills :<br>Python<br>Dart & Flutter<br><br>⚡ Fun fact :<br>I enjoy turning ideas into real apps 🚀
+BIS student <br><br><br>🔭 I’ve built :<br>Desktop apps using Python & Tkinter<br>Mobile apps using Flutter<br><br>🛠 Skills :<br>Python<br>Dart & Flutter<br><br>⚡ Fun fact :<br>I enjoy turning ideas into real apps 🚀
 
 
 ## 🌐 Socials:
