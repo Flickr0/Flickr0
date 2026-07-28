@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I’m Youssef Maher<br><br>I've built:<br>- Desktop applications using Python & Tkinter<br>- Cross-platform mobile applications using Flutter<br>- Responsive websites using HTML, CSS, and JavaScript
 
 
